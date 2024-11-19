@@ -1,0 +1,476 @@
+,Age,Birth_Place,Birthdate,College,Experience,First_Name,Height,Pos,Surname,Team,Weight,BMI
+0,33,mk,"July 29, 1982",,1,Pero,207.5,PF,Antic,ATL,117,27.17375526
+1,26,us,"July 1, 1989",Old Dominion University,2,Kent,192.5,SG,Bazemore,ATL,90.45,24.40883792
+2,36,us,"March 11, 1979",Duke University,15,Elton,200,C,Brand,ATL,123.75,30.9375
+3,29,us,"July 27, 1986",University of Missouri,5,DeMarre,200,SF,Carroll,ATL,96.75,24.1875
+4,27,us,"June 5, 1988",Gonzaga University,5,Austin,207.5,SF,Daye,ATL,99,22.99317753
+5,29,do,"June 3, 1986",University of Florida,7,Al,205,C,Horford,ATL,110.25,26.2343843
+6,24,us,"March 6, 1991",Vanderbilt University,2,John,190,SG,Jenkins,ATL,96.75,26.80055402
+7,34,us,"March 17, 1981",Creighton University,11,Kyle,197.5,SG,Korver,ATL,95.4,24.45761897
+8,25,us,"April 22, 1990",Butler University,3,Shelvin,187.5,PG,Mack,ATL,91.35,25.984
+9,30,us,"February 10, 1985",Louisiana Tech University,8,Paul,200,PF,Millsap,ATL,110.7,27.675
+10,24,us,"July 1, 1991",Bucknell University,1,Mike,207.5,PF,Muscala,ATL,108,25.0834664
+11,24,us,"February 19, 1991",Michigan State University,R,Adreian,205,PF,Payne,ATL,106.65,25.37775134
+12,22,de,"September 15, 1993",,1,Dennis,182.5,PG,Schroder,ATL,77.4,23.23888159
+13,27,us,"July 16, 1988",University of Virginia,2,Mike,200,PF,Scott,ATL,106.65,26.6625
+14,31,ch,"May 2, 1984",,8,Thabo,197.5,SF,Sefolosha,ATL,99,25.38054799
+15,27,us,"June 10, 1988",Wake Forest University,5,Jeff,185,PG,Teague,ATL,83.7,24.45580716
+16,30,us,"April 30, 1985",Louisiana State University,9,Brandon,200,PF,Bass,BOS,112.5,28.125
+17,25,us,"November 26, 1990",University of Texas at Austin,4,Avery,185,SG,Bradley,BOS,81,23.66691015
+18,25,us,"July 6, 1990",Marquette University,2,Jae,195,SF,Crowder,BOS,105.75,27.81065089
+19,28,it,"November 27, 1987",,1,Luigi,200,SF,Datome,BOS,96.75,24.1875
+20,29,us,"August 28, 1986",Georgetown University,6,Jeff,202.5,SF,Green,BOS,105.75,25.78875171
+21,28,se,"March 2, 1987",,4,Jonas,205,PF,Jerebko,BOS,103.95,24.73527662
+22,33,us,"February 9, 1982",Saint Joseph's University,10,Jameer,180,PG,Nelson,BOS,85.5,26.38888889
+23,24,ca,"April 19, 1991",Gonzaga University,1,Kelly,210,C,Olynyk,BOS,107.1,24.28571429
+24,24,ca,"July 20, 1991",Stanford University,R,Dwight,207.5,PF,Powell,BOS,108,25.0834664
+25,24,us,"February 17, 1991",University of Missouri,1,Phil,177.5,PG,Pressey,BOS,78.75,24.99504067
+26,35,us,"February 28, 1980",University of Kentucky,12,Tayshaun,202.5,SF,Prince,BOS,95.4,23.26474623
+27,32,us,"November 24, 1983",Duke University,7,Shavlik,205,PF,Randolph,BOS,108,25.6989887
+28,29,us,"February 22, 1986",University of Kentucky,8,Rajon,182.5,PG,Rondo,BOS,83.7,25.13041847
+29,21,us,"March 6, 1994",Oklahoma State University,R,Marcus,190,PG,Smart,BOS,99,27.42382271
+30,23,us,"March 4, 1992",Ohio State University,2,Jared,202.5,PF,Sullinger,BOS,117,28.53223594
+31,26,us,"February 7, 1989",University of Washington,3,Isaiah,172.5,PG,Thomas,BOS,83.25,27.97731569
+32,33,us,"October 16, 1982",Michigan State University,5,Alan,195,SG,Anderson,NJN,99,26.03550296
+33,26,ba,"April 18, 1989",,R,Bojan,200,SF,Bogdanovic,NJN,97.2,24.3
+34,23,us,"January 29, 1992",Oklahoma State University,R,Markel,187.5,SG,Brown,NJN,85.5,24.32
+35,27,us,"January 17, 1988",University of Louisville,5,Earl,205,PF,Clark,NJN,101.25,24.0928019
+36,24,us,"July 25, 1991",Brigham Young University,1,Brandon,205,PF,Davies,NJN,108,25.6989887
+37,39,us,"May 19, 1976",,19,Kevin,207.5,PF,Garnett,NJN,108,25.0834664
+38,27,mx,"December 27, 1988",University of California,1,Jorge,187.5,PG,Gutierrez,NJN,85.95,24.448
+39,32,us,"October 28, 1983",Georgia Institute of Technology,9,Jarrett,187.5,PG,Jack,NJN,90,25.6
+40,25,us,"December 26, 1990",Baylor University,R,Cory,202.5,PF,Jefferson,NJN,98.1,23.92318244
+41,34,us,"June 29, 1981",University of Arkansas,13,Joe,197.5,SG,Johnson,NJN,108,27.68787053
+42,29,jm,"September 29, 1986",University of Tulsa,1,Jerome,210,C,Jordan,NJN,113.85,25.81632653
+43,22,ru,"October 26, 1993",,1,Sergey,197.5,SG,Karasev,NJN,93.6,23.99615446
+44,34,ru,"February 18, 1981",,12,Andrei,202.5,SF,Kirilenko,NJN,99,24.14266118
+45,27,us,"April 1, 1988",Stanford University,6,Brook,210,C,Lopez,NJN,123.75,28.06122449
+46,24,us,"January 3, 1991",University of Michigan,3,Darius,190,PG,Morris,NJN,85.5,23.68421053
+47,25,us,"March 5, 1990",Duke University,1,Mason,207.5,C,Plumlee,NJN,110.25,25.60603861
+48,23,cd,"August 28, 1992",,3,Bismack,202.5,C,Biyombo,CHA,114.75,27.98353909
+49,24,us,"July 15, 1991",Virginia Commonwealth University,1,Troy,190,SG,Daniels,CHA,92.25,25.55401662
+50,23,us,"December 24, 1992",University of North Carolina,R,P.J.,195,SG,Hairston,CHA,103.5,27.21893491
+51,28,us,"December 9, 1987",Duke University,5,Gerald,192.5,SG,Henderson,CHA,96.75,26.10895598
+52,30,us,"January 4, 1985",,10,Al,205,C,Jefferson,CHA,130.05,30.94586556
+53,22,us,"September 26, 1993",University of Kentucky,2,Michael,197.5,SF,Kidd-Gilchrist,CHA,104.4,26.76494152
+54,32,us,"February 18, 1983",University of Cincinnati,9,Jason,197.5,PF,Maxiell,CHA,117,29.99519308
+55,31,us,"October 3, 1984",Towson University,4,Gary,190,SG,Neal,CHA,94.5,26.17728532
+56,36,us,"October 22, 1979",University of Arkansas,10,Jannero,182.5,PG,Pargo,CHA,78.75,23.64421092
+57,30,us,"December 3, 1985",University of Dayton,2,Brian,182.5,PG,Roberts,CHA,77.85,23.37399137
+58,25,us,"September 5, 1990",University of Cincinnati,4,Lance,192.5,SG,Stephenson,CHA,103.5,27.93051105
+59,26,se,"May 23, 1989",Vanderbilt University,2,Jeffery,197.5,SF,Taylor,CHA,101.25,25.95737863
+60,20,us,"August 24, 1995",Indiana University,R,Noah,205,PF,Vonleh,CHA,108,25.6989887
+61,25,us,"May 8, 1990",University of Connecticut,3,Kemba,182.5,PG,Walker,CHA,77.4,23.23888159
+62,29,us,"June 19, 1986",University of North Carolina,9,Marvin,202.5,PF,Williams,CHA,106.65,26.00823045
+63,33,us,"December 19, 1982",University of Alabama,11,Mo,182.5,PG,Williams,CHA,89.1,26.75173579
+64,25,au,"December 7, 1990",University of New Mexico,R,Cameron,202.5,PF,Bairstow,CHI,112.5,27.43484225
+65,30,us,"January 14, 1985",University of Oregon,6,Aaron,180,PG,Brooks,CHI,72.45,22.36111111
+66,26,us,"September 14, 1989",Marquette University,3,Jimmy,197.5,SG,Butler,CHI,99,25.38054799
+67,35,us,"September 15, 1980",Duke University,12,Mike,202.5,SF,Dunleavy,CHI,103.5,25.24005487
+68,35,es,"July 6, 1980",,13,Pau,210,PF,Gasol,CHI,112.5,25.51020408
+69,30,us,"June 24, 1985",University of Southern California,5,Taj,202.5,PF,Gibson,CHI,101.25,24.69135802
+70,34,us,"January 2, 1981",University of Kansas,11,Kirk,190,SG,Hinrich,CHI,85.5,23.68421053
+71,23,us,"January 3, 1992",Creighton University,R,Doug,200,SF,McDermott,CHI,101.25,25.3125
+72,24,me,"February 11, 1991",,R,Nikola,205,PF,Mirotic,CHI,99,23.55740631
+73,38,us,"September 5, 1977",University of Kentucky,16,Nazr,205,C,Mohammed,CHI,99.45,23.66448543
+74,26,us,"February 28, 1989",Purdue University,3,E'Twaun,190,SG,Moore,CHI,85.95,23.80886427
+75,30,us,"February 25, 1985",University of Florida,7,Joakim,207.5,C,Noah,CHI,103.5,24.03832196
+76,27,us,"October 4, 1988",University of Memphis,5,Derrick,187.5,PG,Rose,CHI,85.5,24.32
+77,24,us,"November 10, 1991",University of New Mexico,1,Tony,197.5,SF,Snell,CHI,90,23.07322544
+78,33,us,"December 7, 1982","University of Nevada, Las Vegas",8,Lou,202.5,PF,Amundson,CLE,99,24.14266118
+79,24,us,"February 8, 1991",University of Montana,R,Will,180,PG,Cherry,CLE,83.25,25.69444444
+80,25,au,"September 8, 1990",Saint Mary's College of California,1,Matthew,190,SG,Dellavedova,CLE,89.1,24.68144044
+81,24,us,"September 7, 1991",University of Virginia,R,Joe,195,SG,Harris,CLE,98.55,25.91715976
+82,36,us,"November 27, 1979",University of North Carolina,12,Brendan,210,C,Haywood,CLE,120.6,27.34693878
+83,23,au,"March 23, 1992",Duke University,3,Kyrie,187.5,PG,Irving,CLE,86.85,24.704
+84,31,us,"December 30, 1984",,11,LeBron,200,SF,James,CLE,112.5,28.125
+85,35,us,"October 4, 1980",University of Miami,11,James,200,SF,Jones,CLE,98.1,24.525
+86,24,us,"November 14, 1991",University of New Mexico,R,Alex,210,C,Kirk,CLE,110.25,25
+87,27,us,"September 7, 1988","University of California, Los Angeles",6,Kevin,205,PF,Love,CLE,112.95,26.87685901
+88,37,us,"May 7, 1978","University of Nevada, Las Vegas",15,Shawn,197.5,SF,Marion,CLE,99,25.38054799
+89,35,us,"February 19, 1980",University of Florida,14,Mike,200,SF,Miller,CLE,98.1,24.525
+90,29,ru,"July 16, 1986",,4,Timofey,212.5,C,Mozgov,CLE,123.75,27.40484429
+91,31,us,"November 10, 1984",,11,Kendrick,205,C,Perkins,CLE,121.5,28.91136228
+92,29,us,"October 7, 1986",University of Connecticut,5,A.J.,185,PG,Price,CLE,81.45,23.79839299
+93,25,us,"June 26, 1990",Georgia Institute of Technology,3,Iman,192.5,SG,Shumpert,CLE,99,26.716141
+94,25,us,"September 21, 1990",Wake Forest University,4,Al-Farouq,202.5,SF,Aminu,DAL,99,24.14266118
+95,31,pr,"June 26, 1984",Northeastern University,8,J.J.,180,PG,Barea,DAL,83.25,25.69444444
+96,33,us,"October 2, 1982",,13,Tyson,212.5,C,Chandler,DAL,108,23.91695502
+97,25,us,"July 6, 1990",Marquette University,2,Jae,195,SF,Crowder,DAL,105.75,27.81065089
+98,30,us,"October 26, 1985",,9,Monta,187.5,SG,Ellis,DAL,83.25,23.68
+99,31,us,"June 26, 1984",University of North Carolina,9,Raymond,182.5,PG,Felton,DAL,92.25,27.69750422
+100,32,us,"February 27, 1983",University of Wisconsin,10,Devin,187.5,PG,Harris,DAL,86.4,24.576
+101,30,us,"February 7, 1985",Florida State University,2,Bernard,205,C,James,DAL,108,25.6989887
+102,35,us,"June 21, 1980",University of Arizona,13,Richard,197.5,SF,Jefferson,DAL,104.85,26.88030764
+103,23,us,"September 10, 1992",,1,Ricky,197.5,SG,Ledo,DAL,87.75,22.49639481
+104,33,us,"February 9, 1982",Saint Joseph's University,10,Jameer,180,PG,Nelson,DAL,85.5,26.38888889
+105,37,de,"June 19, 1978",,16,Dirk,210,PF,Nowitzki,DAL,110.25,25
+106,27,us,"October 25, 1988",University of Florida,3,Chandler,205,SF,Parsons,DAL,103.5,24.6281975
+107,24,ca,"July 20, 1991",Stanford University,R,Dwight,207.5,PF,Powell,DAL,108,25.0834664
+108,29,us,"February 22, 1986",University of Kentucky,8,Rajon,182.5,PG,Rondo,DAL,83.7,25.13041847
+109,24,us,"January 8, 1991","California State University, Fresno",3,Greg,205,PF,Smith,DAL,112.5,26.76977989
+110,30,us,"October 15, 1985","University of California, Los Angeles",7,Arron,192.5,SG,Afflalo,DEN,94.5,25.50177096
+111,27,us,"March 25, 1988",University of Kansas,5,Darrell,202.5,PF,Arthur,DEN,105.75,25.78875171
+112,24,us,"January 6, 1991",University of Memphis,2,Will,195,SG,Barton,DEN,78.75,20.71005917
+113,28,us,"May 10, 1987",DePaul University,7,Wilson,200,SF,Chandler,DEN,101.25,25.3125
+114,24,us,"March 7, 1991",Belmont University,1,Ian,187.5,SG,Clark,DEN,78.75,22.4
+115,26,us,"November 19, 1989",Morehead State University,3,Kenneth,200,PF,Faried,DEN,102.6,25.65
+116,32,us,"September 24, 1983",Villanova University,8,Randy,190,SG,Foye,DEN,95.85,26.55124654
+117,24,us,"July 21, 1991",San Diego State University,1,Jamaal,192.5,SG,Franklin,DEN,85.95,23.19446787
+118,27,it,"August 8, 1988",,5,Danilo,205,SF,Gallinari,DEN,101.25,24.0928019
+119,28,us,"May 29, 1987",University of Alabama,5,Alonzo,195,SF,Gee,DEN,101.25,26.62721893
+120,24,us,"May 9, 1991",Virginia Polytechnic Institute and State University,R,Erick,190,PG,Green,DEN,83.25,23.06094183
+121,21,us,"September 14, 1994",Michigan State University,R,Gary,190,SG,Harris,DEN,94.5,26.17728532
+122,27,us,"September 4, 1988",North Carolina State University,6,J.J.,202.5,C,Hickson,DEN,108.9,26.5569273
+123,24,fr,"September 30, 1991",,R,Joffrey,207.5,C,Lauvergne,DEN,99,22.99317753
+124,28,us,"November 3, 1987",University of North Carolina,5,Ty,177.5,PG,Lawson,DEN,87.75,27.85161674
+125,27,us,"January 19, 1988","University of Nevada, Reno",6,JaVale,210,C,McGee,DEN,121.5,27.55102041
+126,33,ca,"August 9, 1982","University of Nevada, Las Vegas",7,Joel,202.5,C,Anthony,DET,110.25,26.8861454
+127,28,us,"November 10, 1987",University of Texas at Austin,6,D.J.,180,PG,Augustin,DET,82.35,25.41666667
+128,35,us,"March 13, 1980",University of Connecticut,12,Caron,197.5,SF,Butler,DET,102.6,26.30347701
+129,22,us,"February 18, 1993",University of Georgia,1,Kentavious,192.5,SG,Caldwell-Pope,DET,92.25,24.89458593
+130,28,it,"November 27, 1987",,1,Luigi,200,SF,Datome,DET,96.75,24.1875
+131,22,us,"April 6, 1993",University of Colorado,R,Spencer,195,PG,Dinwiddie,DET,90,23.66863905
+132,22,us,"August 10, 1993",University of Connecticut,2,Andre,207.5,C,Drummond,DET,125.55,29.15952969
+133,25,it,"April 16, 1990",Boston College,3,Reggie,187.5,PG,Jackson,DET,93.6,26.624
+134,26,us,"September 23, 1989",,5,Brandon,182.5,PG,Jennings,DET,76.5,22.96866204
+135,28,se,"March 2, 1987",,4,Jonas,205,PF,Jerebko,DET,103.95,24.73527662
+136,33,us,"November 21, 1982",Oklahoma State University,6,John,177.5,PG,Lucas,DET,74.7,23.70958143
+137,31,us,"November 20, 1984",Kansas State University,6,Cartier,197.5,SF,Martin,DET,99,25.38054799
+138,28,us,"August 21, 1987",University of Kentucky,5,Jodie,190,SG,Meeks,DET,94.5,26.17728532
+139,23,us,"November 18, 1992",Baylor University,2,Quincy,202.5,PF,Miller,DET,94.5,23.04526749
+140,25,us,"June 4, 1990",Georgetown University,4,Greg,207.5,PF,Monroe,DET,119.25,27.69632748
+141,35,us,"February 28, 1980",University of Kentucky,12,Tayshaun,202.5,SF,Prince,DET,95.4,23.26474623
+142,33,br,"November 28, 1982",,11,Leandro,187.5,SG,Barbosa,GSW,87.3,24.832
+143,23,us,"May 30, 1992",University of North Carolina,2,Harrison,200,SF,Barnes,GSW,94.5,23.625
+144,31,au,"November 28, 1984",University of Utah,9,Andrew,210,C,Bogut,GSW,117,26.53061224
+145,27,us,"March 14, 1988",Davidson College,5,Stephen,187.5,PG,Curry,GSW,85.5,24.32
+146,26,ng,"October 21, 1989",Vanderbilt University,1,Festus,207.5,C,Ezeli,GSW,114.75,26.65118305
+147,25,us,"March 4, 1990",Michigan State University,2,Draymond,197.5,PF,Green,GSW,103.5,26.53420926
+148,26,us,"April 5, 1989",University of Washington,1,Justin,195,SG,Holiday,GSW,83.25,21.89349112
+149,31,us,"January 28, 1984",University of Arizona,10,Andre,195,SF,Iguodala,GSW,96.75,25.44378698
+150,25,ba,"May 16, 1990",,1,Ognjen,212.5,C,Kuzmic,GSW,112.95,25.01314879
+151,32,us,"April 29, 1983",University of Florida,9,David,202.5,PF,Lee,GSW,110.25,26.8861454
+152,30,us,"September 11, 1985",,9,Shaun,197.5,PG,Livingston,GSW,86.4,22.15029643
+153,22,us,"January 4, 1993",University of North Carolina,R,James,202.5,PF,Michael,GSW,103.5,25.24005487
+154,30,us,"July 7, 1985",University of Kansas,6,Brandon,195,SG,Rush,GSW,99,26.03550296
+155,28,us,"August 4, 1987",University of Florida,6,Marreese,205,C,Speights,GSW,114.75,27.30517549
+156,25,us,"February 8, 1990",Washington State University,3,Klay,197.5,SG,Thompson,GSW,96.75,24.80371735
+157,30,us,"June 30, 1985","University of California, Los Angeles",10,Trevor,200,SF,Ariza,HOU,96.75,24.1875
+158,27,us,"July 12, 1988",University of Arkansas,2,Patrick,182.5,PG,Beverley,HOU,83.25,24.99530869
+159,24,us,"November 22, 1991",University of Kansas,R,Tarik,202.5,C,Black,HOU,112.5,27.43484225
+160,29,us,"March 5, 1986",University of Florida,7,Corey,202.5,SF,Brewer,HOU,83.7,20.41152263
+161,24,us,"May 21, 1991",Murray State University,1,Isaiah,180,PG,Canaan,HOU,90.45,27.91666667
+162,21,ch,"May 18, 1994",,R,Clint,205,C,Capela,HOU,108,25.6989887
+163,24,us,"July 15, 1991",Virginia Commonwealth University,1,Troy,190,SG,Daniels,HOU,92.25,25.55401662
+164,32,us,"December 16, 1983",University of Memphis,3,Joey,200,PF,Dorsey,HOU,120.6,30.15
+165,34,do,"December 31, 1981",University of Louisville,9,Francisco,197.5,SF,Garcia,HOU,87.75,22.49639481
+166,26,us,"August 26, 1989",Arizona State University,5,James,192.5,SG,Harden,HOU,99,26.716141
+167,30,us,"December 8, 1985",,10,Dwight,207.5,C,Howard,HOU,119.25,27.69632748
+168,23,us,"December 22, 1992",University of Arizona,R,Nick,187.5,SG,Johnson,HOU,90.9,25.856
+169,23,us,"January 9, 1992",University of Kentucky,2,Terrence,202.5,PF,Jones,HOU,113.4,27.65432099
+170,22,us,"February 9, 1993",Clemson University,R,K.J.,195,SG,McDaniels,HOU,92.25,24.26035503
+171,25,lt,"September 20, 1990",,2,Donatas,210,PF,Motiejunas,HOU,99.9,22.65306122
+172,25,gr,"July 31, 1990",,R,Kostas,200,SF,Papanikolaou,HOU,101.25,25.3125
+173,26,us,"February 4, 1989",Temple University,3,Lavoy,202.5,C,Allen,IND,117,28.53223594
+174,31,us,"March 17, 1984",University of Colorado,2,Chris,202.5,SF,Copeland,IND,107.55,26.22770919
+175,25,us,"May 2, 1990","California State University, Fresno",4,Paul,202.5,SF,George,IND,99,24.14266118
+176,29,us,"December 11, 1986",Georgetown University,6,Roy,215,C,Hibbert,IND,121.5,26.2844781
+177,29,us,"May 4, 1986",Indiana University-Purdue University Indianapolis,6,George,187.5,PG,Hill,IND,84.6,24.064
+178,24,us,"March 18, 1991",University of Arizona,1,Solomon,197.5,SF,Hill,IND,101.25,25.95737863
+179,29,fr,"November 5, 1986",,6,Ian,207.5,C,Mahinmi,IND,112.5,26.12861083
+180,28,us,"April 18, 1987",,9,C.J.,195,SG,Miles,IND,101.25,26.62721893
+181,29,us,"October 7, 1986",University of Connecticut,5,A.J.,185,PG,Price,IND,81.45,23.79839299
+182,29,hr,"June 17, 1986",,R,Damjan,205,SF,Rudez,IND,102.6,24.41403926
+183,35,ar,"April 30, 1980",,7,Luis,202.5,PF,Scola,IND,108,26.33744856
+184,27,us,"January 15, 1988",Texas A&M University,3,Donald,187.5,PG,Sloan,IND,92.25,26.24
+185,29,us,"April 21, 1986",Eastern Washington University,7,Rodney,192.5,PG,Stuckey,IND,94.5,25.50177096
+186,31,us,"April 17, 1984",University of Tennessee,7,C.J.,185,PG,Watson,IND,78.75,23.00949598
+187,35,us,"August 29, 1980",Xavier University,11,David,202.5,PF,West,IND,112.5,27.43484225
+188,24,us,"March 27, 1991",Western Michigan University,R,Shayne,207.5,PF,Whittington,IND,112.5,26.12861083
+189,35,us,"March 9, 1980","University of California, Los Angeles",11,Matt,197.5,SF,Barnes,LAC,101.7,26.07274475
+190,24,us,"March 16, 1991",University of North Carolina,1,Reggie,197.5,SF,Bullock,LAC,92.25,23.65005608
+191,35,us,"March 20, 1980",University of Michigan,14,Jamal,192.5,SG,Crawford,LAC,90,24.28740091
+192,24,us,"May 22, 1991",Oregon State University,2,Jared,190,SG,Cunningham,LAC,87.75,24.30747922
+193,29,us,"January 1, 1986",Louisiana State University,7,Glen,202.5,PF,Davis,LAC,130.05,31.71467764
+194,28,us,"January 8, 1987",University of Memphis,5,Chris,197.5,SG,Douglas-Roberts,LAC,90,23.07322544
+195,29,us,"November 30, 1986","University of California, Los Angeles",7,Jordan,185,PG,Farmar,LAC,81,23.66691015
+196,26,us,"March 16, 1989",University of Oklahoma,4,Blake,205,PF,Griffin,LAC,112.95,26.87685901
+197,25,us,"October 6, 1990",University of Texas at Austin,3,Jordan,197.5,SF,Hamilton,LAC,99,25.38054799
+198,27,us,"April 28, 1988",University of Washington,7,Spencer,212.5,PF,Hawes,LAC,110.25,24.41522491
+199,31,us,"August 7, 1984",University of Tennessee at Martin,3,Lester,187.5,SG,Hudson,LAC,85.5,24.32
+200,35,us,"December 27, 1980",Duke University,10,Dahntay,195,SF,Jones,LAC,101.25,26.62721893
+201,27,us,"July 21, 1988",Texas A&M University,6,DeAndre,207.5,C,Jordan,LAC,119.25,27.69632748
+202,30,us,"May 6, 1985",Wake Forest University,9,Chris,180,PG,Paul,LAC,78.75,24.30555556
+203,31,us,"June 24, 1984",Duke University,8,J.J.,190,SG,Redick,LAC,85.5,23.68421053
+204,23,us,"August 1, 1992",Duke University,2,Austin,190,PG,Rivers,LAC,90,24.93074792
+205,24,us,"November 22, 1991",University of Kansas,R,Tarik,202.5,C,Black,LAL,112.5,27.43484225
+206,23,us,"July 17, 1992",Marquette University,1,Vander,190,SG,Blue,LAL,90,24.93074792
+207,34,de,"November 20, 1981",Duke University,12,Carlos,202.5,PF,Boozer,LAL,116.1,28.3127572
+208,23,us,"December 18, 1992",University of Missouri,R,Jabari,190,SG,Brown,LAL,96.75,26.80055402
+209,37,us,"August 23, 1978",,18,Kobe,195,SG,Bryant,LAL,95.4,25.0887574
+210,26,us,"March 6, 1989",Marquette University,1,Dwight,187.5,PG,Buycks,LAL,85.5,24.32
+211,23,us,"June 7, 1992",University of Missouri,R,Jordan,192.5,PG,Clarkson,LAL,87.3,23.55877888
+212,26,us,"June 5, 1989",University of North Carolina,4,Ed,205,PF,Davis,LAL,108,25.6989887
+213,28,us,"October 29, 1987",University of North Carolina,5,Wayne,190,SG,Ellington,LAL,90,24.93074792
+214,24,be,"March 15, 1991",University of Kansas,4,Xavier,195,SF,Henry,LAL,99,26.03550296
+215,28,us,"July 27, 1987",University of Arizona,5,Jordan,205,C,Hill,LAL,105.75,25.1635931
+216,28,us,"July 11, 1987",Syracuse University,4,Wesley,197.5,SF,Johnson,LAL,96.75,24.80371735
+217,24,us,"April 9, 1991",Duke University,1,Ryan,207.5,PF,Kelly,LAL,103.5,24.03832196
+218,27,us,"August 23, 1988",Harvard University,4,Jeremy,187.5,PG,Lin,LAL,90,25.6
+219,32,us,"June 21, 1983",Utah Valley State College,9,Ronnie,185,PG,Price,LAL,85.5,24.9817385
+220,21,us,"November 29, 1994",University of Kentucky,R,Julius,202.5,PF,Randle,LAL,112.5,27.43484225
+221,21,us,"July 8, 1994","University of California, Los Angeles",R,Jordan,192.5,SG,Adams,MEM,94.05,25.38033395
+222,33,us,"January 11, 1982",Oklahoma State University,10,Tony,190,SG,Allen,MEM,95.85,26.55124654
+223,26,us,"February 7, 1989",University of Florida,1,Nick,195,SG,Calathes,MEM,95.85,25.20710059
+224,38,us,"January 26, 1977",University of North Carolina,16,Vince,195,SG,Carter,MEM,99,26.03550296
+225,28,us,"October 11, 1987",Ohio State University,7,Mike,182.5,PG,Conley,MEM,78.75,23.64421092
+226,30,es,"January 29, 1985",,6,Marc,212.5,C,Gasol,MEM,114.75,25.41176471
+227,25,us,"June 21, 1990",University of Alabama,R,JaMychal,202.5,PF,Green,MEM,102.15,24.91083676
+228,29,us,"August 28, 1986",Georgetown University,6,Jeff,202.5,SF,Green,MEM,105.75,25.78875171
+229,26,us,"February 24, 1989",Ohio State University,6,Kosta,210,C,Koufos,MEM,119.25,27.04081633
+230,30,us,"October 3, 1985",Western Kentucky University,6,Courtney,192.5,SG,Lee,MEM,90,24.28740091
+231,26,us,"May 14, 1989",University of Wisconsin,3,Jon,205,PF,Leuer,MEM,102.6,24.41403926
+232,26,us,"May 24, 1989",Michigan State University,R,Kalin,182.5,PG,Lucas,MEM,87.75,26.34640646
+233,27,us,"March 10, 1988",University of Washington,4,Quincy,197.5,SG,Pondexter,MEM,99,25.38054799
+234,35,us,"February 28, 1980",University of Kentucky,12,Tayshaun,202.5,SF,Prince,MEM,95.4,23.26474623
+235,34,us,"July 16, 1981",Michigan State University,13,Zach,202.5,PF,Randolph,MEM,117,28.53223594
+236,24,us,"April 19, 1991",University of Louisville,R,Russ,180,PG,Smith,MEM,74.25,22.91666667
+237,37,us,"July 7, 1978",Blinn College,12,Chris,205,C,Andersen,MIA,110.25,26.2343843
+238,26,us,"January 9, 1989",Kansas State University,6,Michael,202.5,SF,Beasley,MIA,105.75,25.78875171
+239,31,us,"March 24, 1984",Georgia Institute of Technology,11,Chris,207.5,C,Bosh,MIA,105.75,24.56089418
+240,30,us,"November 29, 1985",Michigan State University,8,Shannon,190,SG,Brown,MIA,92.25,25.55401662
+241,29,us,"May 19, 1986",University of Kansas,6,Mario,185,PG,Chalmers,MIA,85.5,24.9817385
+242,27,us,"October 13, 1988",Cleveland State University,3,Norris,185,PG,Cole,MIA,78.75,23.00949598
+243,24,us,"September 19, 1991",Duke University,R,Andre,192.5,SG,Dawkins,MIA,96.75,26.10895598
+244,30,ss,"April 16, 1985",Duke University,10,Luol,202.5,SF,Deng,MIA,99,24.14266118
+245,29,si,"May 6, 1986",,6,Goran,187.5,PG,Dragic,MIA,85.5,24.32
+246,26,si,"June 22, 1989",,R,Zoran,192.5,SG,Dragic,MIA,90,24.28740091
+247,25,us,"July 1, 1990","California State University, Long Beach",R,James,197.5,SF,Ennis,MIA,94.5,24.22688672
+248,32,us,"April 20, 1983",University of New Mexico,9,Danny,202.5,SF,Granger,MIA,99.9,24.36213992
+249,25,us,"April 1, 1990",Louisiana State University,1,Justin,210,C,Hamilton,MIA,117,26.53061224
+250,35,us,"June 9, 1980",University of Florida,11,Udonis,200,PF,Haslem,MIA,105.75,26.4375
+251,23,us,"May 7, 1992","California State University, Fresno",R,Tyler,190,SG,Johnson,MIA,83.7,23.18559557
+252,28,us,"February 28, 1987",Duke University,7,Josh,205,PF,McRoberts,MIA,108,25.6989887
+253,21,gr,"December 6, 1994",,1,Giannis,207.5,SG,Antetokounmpo,MIL,99.9,23.20220642
+254,27,us,"August 20, 1988",University of Arizona,6,Jerryd,187.5,PG,Bayless,MIL,90,25.6
+255,24,us,"October 10, 1991",Syracuse University,1,Michael,195,PG,Carter-Williams,MIL,85.5,22.4852071
+256,30,us,"July 10, 1985",Boston College,7,Jared,197.5,SG,Dudley,MIL,101.25,25.95737863
+257,21,ca,"August 24, 1994",Syracuse University,R,Tyler,187.5,PG,Ennis,MIL,87.3,24.832
+258,27,mx,"December 27, 1988",University of California,1,Jorge,187.5,PG,Gutierrez,MIL,85.95,24.448
+259,25,us,"December 28, 1990",University of North Carolina,2,John,207.5,C,Henson,MIL,103.05,23.93380752
+260,28,tr,"May 15, 1987",,6,Ersan,205,PF,Ilyasova,MIL,105.75,25.1635931
+261,25,us,"April 29, 1990",University of Dayton,2,Chris,195,SF,Johnson,MIL,92.7,24.37869822
+262,24,us,"December 2, 1991",University of Kentucky,3,Brandon,187.5,PG,Knight,MIL,85.05,24.192
+263,24,us,"August 19, 1991",University of North Carolina,2,Kendall,190,PG,Marshall,MIL,90,24.93074792
+264,38,us,"December 30, 1977",University of Cincinnati,14,Kenyon,202.5,PF,Martin,MIL,105.3,25.67901235
+265,28,us,"November 5, 1987",University of Southern California,6,O.J.,192.5,SG,Mayo,MIL,94.5,25.50177096
+266,24,us,"August 12, 1991",Texas A&M University,2,Khris,200,SF,Middleton,MIL,105.3,26.325
+267,22,us,"June 1, 1993",Louisiana State University,R,Johnny,202.5,PF,O'Bryant,MIL,115.65,28.20301783
+268,31,ge,"February 10, 1984",,11,Zaza,207.5,C,Pachulia,MIL,121.5,28.2188997
+269,29,us,"February 10, 1986",University of Connecticut,4,Jeff,197.5,PF,Adrien,MIN,110.25,28.26470117
+270,22,ca,"March 14, 1993","University of Nevada, Las Vegas",1,Anthony,200,PF,Bennett,MIN,110.25,27.5625
+271,29,us,"March 5, 1986",University of Florida,7,Corey,202.5,SF,Brewer,MIN,83.7,20.41152263
+272,25,us,"August 26, 1990",North Carolina State University,1,Lorenzo,192.5,PG,Brown,MIN,85.05,22.95159386
+273,27,us,"May 22, 1988",University of Arizona,5,Chase,197.5,SF,Budinger,MIN,94.05,24.11152059
+274,24,us,"July 15, 1991",Virginia Commonwealth University,1,Troy,190,SG,Daniels,MIN,92.25,25.55401662
+275,25,sn,"January 18, 1990",University of Louisville,1,Gorgui,207.5,C,Dieng,MIN,108.45,25.18798084
+276,39,us,"May 19, 1976",,19,Kevin,207.5,PF,Garnett,MIN,108,25.0834664
+277,25,us,"April 1, 1990",Louisiana State University,1,Justin,210,C,Hamilton,MIN,117,26.53061224
+278,26,us,"March 8, 1989",Purdue University,1,Robbie,200,SF,Hummel,MIN,96.75,24.1875
+279,25,us,"January 6, 1990",University of Cincinnati,R,Sean,190,SG,Kilpatrick,MIN,94.5,26.17728532
+280,20,us,"March 10, 1995","University of California, Los Angeles",R,Zach,192.5,PG,LaVine,MIN,85.05,22.95159386
+281,32,us,"February 1, 1983",Western Carolina University,10,Kevin,197.5,SG,Martin,MIN,89.55,22.95785932
+282,23,us,"November 13, 1992","University of California, Los Angeles",1,Shabazz,195,SG,Muhammad,MIN,100.35,26.39053254
+283,31,us,"October 3, 1984",Towson University,4,Gary,190,SG,Neal,MIN,94.5,26.17728532
+284,28,us,"July 13, 1987",Syracuse University,1,Arinze,202.5,C,Onuaku,MIN,114.75,27.98353909
+285,27,fr,"May 6, 1988",,4,Alexis,215,C,Ajinca,NOP,111.6,24.14277988
+286,27,us,"May 6, 1988",University of California,6,Ryan,205,PF,Anderson,NOP,108,25.6989887
+287,29,tr,"July 4, 1986",,4,Omer,210,C,Asik,NOP,114.75,26.02040816
+288,26,us,"June 20, 1989","University of Nevada, Reno",4,Luke,202.5,SF,Babbitt,NOP,101.25,24.69135802
+289,27,us,"October 13, 1988",Cleveland State University,3,Norris,185,PG,Cole,NOP,78.75,23.00949598
+290,28,us,"April 22, 1987",Villanova University,5,Dante,200,PF,Cunningham,NOP,103.5,25.875
+291,22,us,"March 11, 1993",University of Kentucky,2,Anthony,205,PF,Davis,NOP,113.85,27.09101725
+292,29,us,"March 16, 1986",Florida State University,5,Toney,185,SG,Douglas,NOP,87.75,25.63915267
+293,26,us,"September 19, 1989",University of Memphis,5,Tyreke,195,SG,Evans,NOP,99,26.03550296
+294,26,us,"February 25, 1989",Brigham Young University,3,Jimmer,185,PG,Fredette,NOP,87.75,25.63915267
+295,27,us,"December 25, 1988",Indiana University,6,Eric,190,SG,Gordon,NOP,96.75,26.80055402
+296,25,us,"June 12, 1990","University of California, Los Angeles",5,Jrue,190,PG,Holiday,NOP,92.25,25.55401662
+297,27,il,"March 4, 1988",Wichita State University,1,Gal,187.5,PG,Mekel,NOP,85.95,24.448
+298,25,us,"March 21, 1990",University of Kentucky,2,Darius,200,SF,Miller,NOP,105.75,26.4375
+299,27,us,"March 10, 1988",University of Washington,4,Quincy,197.5,SF,Pondexter,NOP,99,25.38054799
+300,23,us,"August 1, 1992",Duke University,2,Austin,190,SG,Rivers,NOP,90,24.93074792
+301,25,us,"October 6, 1990",Baylor University,2,Quincy,197.5,PF,Acy,NYK,108,27.68787053
+302,27,us,"October 31, 1988",University of Kansas,4,Cole,207.5,C,Aldrich,NYK,112.5,26.12861083
+303,33,us,"December 7, 1982","University of Nevada, Las Vegas",8,Lou,202.5,PF,Amundson,NYK,99,24.14266118
+304,31,us,"May 29, 1984",Syracuse University,11,Carmelo,200,SF,Anthony,NYK,108,27
+305,30,it,"October 26, 1985",,8,Andrea,210,C,Bargnani,NYK,110.25,25
+306,34,es,"September 28, 1981",,9,Jose,187.5,PG,Calderon,NYK,90,25.6
+307,34,ht,"May 10, 1981",Seton Hall University,12,Samuel,207.5,C,Dalembert,NYK,114.75,26.65118305
+308,24,us,"April 17, 1991",Wichita State University,R,Cleanthony,200,SF,Early,NYK,94.5,23.625
+309,24,us,"December 9, 1991",Saint Joseph's University,R,Langston,185,PG,Galloway,NYK,90,26.29656684
+310,23,us,"March 16, 1992",University of Michigan,1,Tim,195,SG,Hardaway,NYK,92.25,24.26035503
+311,23,us,"October 2, 1992",University of Miami,1,Shane,177.5,PG,Larkin,NYK,78.75,24.99504067
+312,23,us,"September 10, 1992",,1,Ricky,197.5,SG,Ledo,NYK,87.75,22.49639481
+313,38,ar,"May 17, 1977",,2,Pablo,187.5,PG,Prigioni,NYK,83.25,23.68
+314,25,us,"June 26, 1990",Georgia Institute of Technology,3,Iman,192.5,SG,Shumpert,NYK,99,26.716141
+315,27,ru,"December 16, 1988",,2,Alexey,195,SG,Shved,NYK,85.5,22.4852071
+316,30,us,"September 9, 1985",,10,J.R.,195,SG,Smith,NYK,101.25,26.62721893
+317,22,nz,"July 20, 1993",University of Pittsburgh,1,Steven,210,C,Adams,OKC,114.75,26.02040816
+318,28,us,"November 10, 1987",University of Texas at Austin,6,D.J.,180,PG,Augustin,OKC,82.35,25.41666667
+319,35,us,"October 26, 1980",University of Kansas,10,Nick,205,PF,Collison,OKC,114.75,27.30517549
+320,27,us,"September 29, 1988",University of Texas at Austin,7,Kevin,202.5,SF,Durant,OKC,108,26.33744856
+321,26,cg,"September 18, 1989",,5,Serge,205,PF,Ibaka,OKC,105.75,25.1635931
+322,25,it,"April 16, 1990",Boston College,3,Reggie,187.5,PG,Jackson,OKC,93.6,26.624
+323,22,us,"July 8, 1993",University of Arizona,R,Grant,205,PF,Jerrett,OKC,105.75,25.1635931
+324,24,us,"September 24, 1991",Baylor University,2,Perry,207.5,SF,Jones,OKC,105.75,24.56089418
+325,23,ch,"May 20, 1992",,3,Enes,207.5,C,Kanter,OKC,110.25,25.60603861
+326,23,us,"May 30, 1992",University of Connecticut,2,Jeremy,192.5,SG,Lamb,OKC,83.25,22.46584584
+327,23,us,"June 6, 1992",University of Michigan,R,Mitch,205,PF,McGary,OKC,114.75,27.30517549
+328,30,us,"September 27, 1985",Georgia Institute of Technology,6,Anthony,192.5,SG,Morrow,OKC,94.5,25.50177096
+329,32,us,"June 13, 1983",Marquette University,8,Steve,205,PF,Novak,OKC,101.25,24.0928019
+330,31,us,"November 10, 1984",,11,Kendrick,205,C,Perkins,OKC,121.5,28.91136228
+331,24,us,"December 4, 1991",University of Colorado,1,Andre,197.5,SG,Roberson,OKC,94.5,24.22688672
+332,27,us,"May 4, 1988",Duke University,2,Kyle,200,SF,Singler,OKC,102.6,25.65
+333,26,us,"August 12, 1989",University of Southern California,1,Dewayne,210,C,Dedmon,ORL,110.25,25
+334,23,fr,"October 29, 1992",,2,Evan,197.5,SG,Fournier,ORL,92.25,23.65005608
+335,32,us,"May 17, 1983",University of Arizona,8,Channing,207.5,PF,Frye,ORL,114.75,26.65118305
+336,20,us,"September 16, 1995",University of Arizona,R,Aaron,202.5,PF,Gordon,ORL,99,24.14266118
+337,32,gb,"April 4, 1983",University of Connecticut,10,Ben,187.5,SG,Gordon,ORL,90,25.6
+338,34,us,"July 28, 1981",University of Detroit Mercy,11,Willie,190,SG,Green,ORL,90,24.93074792
+339,22,us,"May 11, 1993",St. John's University,2,Maurice,202.5,SF,Harkless,ORL,96.75,23.59396433
+340,23,us,"July 15, 1992",University of Tennessee,3,Tobias,202.5,SF,Harris,ORL,105.75,25.78875171
+341,23,us,"September 21, 1992",University of Iowa,R,Devyn,195,SG,Marble,ORL,90,23.66863905
+342,26,ca,"December 8, 1989",St. Bonaventure University,2,Andrew,202.5,PF,Nicholson,ORL,112.5,27.43484225
+343,25,us,"March 26, 1990",Norfolk State University,2,Kyle,205,PF,O'Quinn,ORL,112.5,26.76977989
+344,23,us,"May 4, 1992",Indiana University,1,Victor,190,SG,Oladipo,ORL,94.5,26.17728532
+345,21,us,"February 22, 1994",University of Louisiana at Lafayette,R,Elfrid,190,PG,Payton,ORL,83.25,23.06094183
+346,34,us,"February 13, 1981",University of Oregon,11,Luke,185,PG,Ridnour,ORL,78.75,23.00949598
+347,25,ch,"October 24, 1990",University of Southern California,3,Nikola,210,C,Vucevic,ORL,117,26.53061224
+348,24,tr,"August 9, 1991",,R,Furkan,205,PF,Aldemir,PHI,108,25.6989887
+349,24,us,"May 21, 1991",Murray State University,1,Isaiah,180,PG,Canaan,PHI,90.45,27.91666667
+350,24,us,"October 10, 1991",Syracuse University,1,Michael,195,PG,Carter-Williams,PHI,85.5,22.4852071
+351,25,us,"December 14, 1990",Tennessee State University,1,Robert,202.5,SF,Covington,PHI,96.75,23.59396433
+352,24,us,"July 25, 1991",Brigham Young University,1,Brandon,205,PF,Davies,PHI,108,25.6989887
+353,25,us,"March 5, 1990","University of California, Los Angeles",R,Larry,185,PG,Drew,PHI,81,23.66691015
+354,25,us,"November 1, 1990",Pennsylvania State University,R,Tim,182.5,PG,Frazier,PHI,76.5,22.96866204
+355,25,us,"July 12, 1990",University of New Mexico,R,Drew,202.5,PF,Gordon,PHI,110.25,26.8861454
+356,21,us,"March 12, 1994",Syracuse University,R,Jerami,200,SF,Grant,PHI,94.5,23.625
+357,25,us,"April 29, 1990",University of Dayton,2,Chris,195,SF,Johnson,PHI,92.7,24.37869822
+358,25,us,"May 22, 1990","University of California, Los Angeles",2,Malcolm,192.5,SG,Lee,PHI,90,24.28740091
+359,29,cm,"September 9, 1986","University of California, Los Angeles",6,Luc,200,PF,Mbah,PHI,103.5,25.875
+360,22,us,"February 9, 1993",Clemson University,R,K.J.,195,SG,McDaniels,PHI,92.25,24.26035503
+361,27,us,"January 19, 1988","University of Nevada, Reno",6,JaVale,210,C,McGee,PHI,121.5,27.55102041
+362,21,us,"April 10, 1994",University of Kentucky,R,Nerlens,207.5,C,Noel,PHI,102.6,23.82929308
+363,34,us,"January 20, 1981",Michigan State University,12,Jason,195,SG,Richardson,PHI,99,26.03550296
+364,34,us,"August 14, 1981",University of Memphis,7,Earl,210,C,Barron,PHO,112.5,25.51020408
+365,26,us,"December 9, 1989",University of Kentucky,4,Eric,182.5,PG,Bledsoe,PHO,85.5,25.67085757
+366,24,us,"March 16, 1991",University of North Carolina,1,Reggie,197.5,SF,Bullock,PHO,92.25,23.65005608
+367,25,us,"August 23, 1990",Duke University,1,Seth,185,PG,Curry,PHO,83.25,24.32432432
+368,29,si,"May 6, 1986",,6,Goran,187.5,SG,Dragic,PHO,85.5,24.32
+369,26,si,"June 22, 1989",,R,Zoran,192.5,SG,Dragic,PHO,90,24.28740091
+370,21,ca,"August 24, 1994",Syracuse University,R,Tyler,187.5,PG,Ennis,PHO,87.3,24.832
+371,21,us,"August 17, 1994",University of Kentucky,1,Archie,192.5,SG,Goodwin,PHO,90,24.28740091
+372,29,us,"January 26, 1986",,7,Gerald,197.5,SG,Green,PHO,92.25,23.65005608
+373,24,us,"December 2, 1991",University of Kentucky,3,Brandon,187.5,SG,Knight,PHO,85.05,24.192
+374,22,ua,"June 16, 1993",University of Maryland,1,Alex,212.5,C,Len,PHO,117,25.9100346
+375,28,us,"June 1, 1987",Marquette University,R,Jerel,187.5,PG,McNeal,PHO,90,25.6
+376,26,us,"September 2, 1989",University of Kansas,3,Marcus,202.5,PF,Morris,PHO,105.75,25.78875171
+377,26,us,"September 2, 1989",University of Kansas,3,Markieff,205,PF,Morris,PHO,110.25,26.2343843
+378,27,us,"September 1, 1988",Duke University,2,Miles,207.5,C,Plumlee,PHO,112.05,26.02409639
+379,29,us,"October 7, 1986",University of Connecticut,5,A.J.,185,PG,Price,PHO,81.45,23.79839299
+380,30,us,"October 15, 1985","University of California, Los Angeles",7,Arron,192.5,SG,Afflalo,POR,94.5,25.50177096
+381,30,us,"July 19, 1985",University of Texas at Austin,8,LaMarcus,207.5,PF,Aldridge,POR,117,27.17375526
+382,24,us,"January 6, 1991",University of Memphis,2,Will,195,SG,Barton,POR,78.75,20.71005917
+383,27,fr,"December 14, 1988",,6,Nicolas,200,SF,Batum,POR,90,22.5
+384,35,us,"February 26, 1980",University of Maryland,11,Steve,187.5,PG,Blake,POR,77.4,22.016
+385,27,es,"August 30, 1988",,2,Victor,202.5,SF,Claver,POR,100.8,24.58161866
+386,23,us,"April 9, 1992",University of California,1,Allen,195,SG,Crabbe,POR,94.5,24.85207101
+387,25,us,"November 1, 1990",Pennsylvania State University,R,Tim,182.5,PG,Frazier,POR,76.5,22.96866204
+388,28,gb,"February 7, 1987",,2,Joel,205,C,Freeland,POR,112.5,26.76977989
+389,28,us,"May 29, 1987",University of Alabama,5,Alonzo,195,SF,Gee,POR,101.25,26.62721893
+390,33,us,"April 28, 1982",Central Michigan University,11,Chris,210,C,Kaman,POR,119.25,27.04081633
+391,23,us,"February 27, 1992",University of Illinois at Urbana-Champaign,2,Meyers,212.5,C,Leonard,POR,110.25,24.41522491
+392,25,us,"July 15, 1990",Weber State University,2,Damian,187.5,PG,Lillard,POR,87.75,24.96
+393,27,us,"April 1, 1988",Stanford University,6,Robin,210,C,Lopez,POR,114.75,26.02040816
+394,29,us,"October 14, 1986",Marquette University,5,Wesley,192.5,SG,Matthews,POR,99,26.716141
+395,24,us,"September 19, 1991",Lehigh University,1,C.J.,190,SG,McCollum,POR,90,24.93074792
+396,23,ca,"December 2, 1992",New Mexico State University,R,Sim,222.5,C,Bhullar,SAC,162,32.72314102
+397,27,il,"June 22, 1988",,5,Omri,202.5,SF,Casspi,SAC,101.25,24.69135802
+398,28,us,"August 23, 1987","University of California, Los Angeles",5,Darren,180,PG,Collison,SAC,78.75,24.30555556
+399,25,us,"August 13, 1990",University of Kentucky,4,DeMarcus,207.5,C,Cousins,SAC,121.5,28.2188997
+400,35,us,"May 18, 1980",University of Iowa,12,Reggie,200,PF,Evans,SAC,110.25,27.5625
+401,29,us,"August 17, 1986",University of Connecticut,8,Rudy,200,SF,Gay,SAC,103.5,25.875
+402,31,us,"October 10, 1984","University of California, Los Angeles",8,Ryan,210,C,Hollins,SAC,108,24.48979592
+403,32,us,"September 19, 1983",Purdue University,7,Carl,202.5,PF,Landry,SAC,111.6,27.21536351
+404,24,us,"June 12, 1991",University of Detroit Mercy,1,Ray,187.5,PG,McCallum,SAC,85.5,24.32
+405,22,us,"February 11, 1993",University of Kansas,1,Ben,192.5,SG,McLemore,SAC,87.75,23.68021589
+406,39,us,"March 19, 1976",University of Utah,15,Andre,187.5,PG,Miller,SAC,90,25.6
+407,23,us,"November 18, 1992",Baylor University,2,Quincy,202.5,PF,Miller,SAC,94.5,23.04526749
+408,24,us,"December 24, 1991",Oregon State University,R,Eric,205,PF,Moreland,SAC,107.1,25.48483046
+409,29,us,"April 11, 1986","University of Nevada, Reno",7,Ramon,187.5,PG,Sessions,SAC,85.5,24.32
+410,22,ca,"October 7, 1993",University of Michigan,R,Nik,195,SG,Stauskas,SAC,92.25,24.26035503
+411,24,us,"June 24, 1991",Gonzaga University,R,David,177.5,PG,Stockton,SAC,74.25,23.56675263
+412,22,us,"September 20, 1993","University of California, Los Angeles",R,Kyle,202.5,SF,Anderson,SAS,103.5,25.24005487
+413,28,us,"April 29, 1987",Arizona State University,4,Jeff,202.5,PF,Ayres,SAS,108,26.33744856
+414,29,nz,"December 9, 1986",Washington State University,2,Aron,205,C,Baynes,SAS,117,27.84057109
+415,29,it,"March 25, 1986",,7,Marco,192.5,SG,Belinelli,SAS,94.5,25.50177096
+416,35,us,"April 5, 1980",University of Florida,10,Matt,205,PF,Bonner,SAS,105.75,25.1635931
+417,27,us,"June 5, 1988",Gonzaga University,5,Austin,207.5,SF,Daye,SAS,99,22.99317753
+418,33,fr,"April 16, 1982",,11,Boris,200,PF,Diaw,SAS,112.5,28.125
+419,39,vi,"April 25, 1976",Wake Forest University,17,Tim,207.5,C,Duncan,SAS,112.5,26.12861083
+420,38,ar,"July 28, 1977",,12,Manu,195,SG,Ginobili,SAS,92.25,24.26035503
+421,28,us,"June 22, 1987",University of North Carolina,5,Danny,195,SG,Green,SAS,96.75,25.44378698
+422,25,us,"June 21, 1990",University of Alabama,R,JaMychal,202.5,PF,Green,SAS,102.15,24.91083676
+423,24,ca,"August 20, 1991",University of Texas at Austin,3,Cory,187.5,PG,Joseph,SAS,86.85,24.704
+424,24,us,"June 29, 1991",San Diego State University,3,Kawhi,197.5,SF,Leonard,SAS,103.5,26.53420926
+425,27,au,"August 11, 1988",Saint Mary's College of California,5,Patrick,180,PG,Mills,SAS,83.25,25.69444444
+426,33,be,"May 17, 1982",,13,Tony,185,PG,Parker,SAS,83.25,24.32432432
+427,30,br,"January 1, 1985",,4,Tiago,207.5,C,Splitter,SAS,110.25,25.60603861
+428,20,br,"September 21, 1995",,R,Bruno,202.5,SF,Caboclo,TOR,98.1,23.92318244
+429,26,us,"August 7, 1989",University of Southern California,5,DeMar,197.5,SG,DeRozan,TOR,99.45,25.49591412
+430,27,us,"June 27, 1988",Stanford University,4,Landry,197.5,SF,Fields,TOR,94.5,24.22688672
+431,30,us,"November 3, 1985",University of North Carolina,5,Tyler,202.5,PF,Hansbrough,TOR,112.5,27.43484225
+432,32,us,"June 11, 1983",University of Kentucky,9,Chuck,195,C,Hayes,TOR,108,28.40236686
+433,28,us,"May 1, 1987",,9,Amir,202.5,PF,Johnson,TOR,108,26.33744856
+434,28,us,"February 20, 1987",Wake Forest University,5,James,202.5,PF,Johnson,TOR,112.5,27.43484225
+435,29,us,"March 25, 1986",Villanova University,8,Kyle,182.5,PG,Lowry,TOR,88.2,26.48151623
+436,23,br,"July 26, 1992",,R,Lucas,210,C,Nogueira,TOR,108.45,24.59183673
+437,26,us,"March 14, 1989",University of Kentucky,4,Patrick,202.5,PF,Patterson,TOR,103.5,25.24005487
+438,24,us,"February 5, 1991",University of Washington,2,Terrence,197.5,SF,Ross,TOR,92.7,23.76542221
+439,30,us,"September 26, 1985",University of Wisconsin,3,Greg,207.5,C,Stiemsma,TOR,117,27.17375526
+440,23,lt,"May 6, 1992",,2,Jonas,210,C,Valanciunas,TOR,119.25,27.04081633
+441,28,ve,"January 16, 1987",University of Maryland,4,Greivis,195,PG,Vasquez,TOR,97.65,25.68047337
+442,29,us,"October 27, 1986",,9,Lou,182.5,SG,Williams,TOR,78.75,23.64421092
+443,24,us,"August 1, 1991",Towson University,R,Jerrelle,200,PF,Benimon,UTA,110.25,27.5625
+444,28,us,"November 25, 1987",Clemson University,4,Trevor,200,PF,Booker,UTA,102.6,25.65
+445,23,us,"November 12, 1992",University of Michigan,1,Trey,182.5,PG,Burke,UTA,85.95,25.80596735
+446,24,us,"July 20, 1991",University of Colorado,3,Alec,195,SG,Burks,UTA,96.3,25.32544379
+447,27,us,"June 3, 1988",University of California,R,Patrick,192.5,SG,Christopher,UTA,94.05,25.38033395
+448,24,us,"March 7, 1991",Belmont University,1,Ian,187.5,SG,Clark,UTA,78.75,22.4
+449,24,us,"April 4, 1991",University of Notre Dame,R,Jack,202.5,PF,Cooley,UTA,117,28.53223594
+450,23,us,"August 11, 1992",Providence College,R,Bryce,182.5,PG,Cotton,UTA,74.25,22.29311315
+451,28,us,"October 24, 1987",Western Kentucky University,4,Jeremy,202.5,SF,Evans,UTA,90,21.9478738
+452,20,au,"July 13, 1995",,R,Dante,195,PG,Exum,UTA,85.5,22.4852071
+453,24,us,"July 15, 1991",Georgia Institute of Technology,4,Derrick,205,PF,Favors,UTA,119.25,28.37596669
+454,23,fr,"June 26, 1992",,1,Rudy,212.5,C,Gobert,UTA,110.25,24.41522491
+455,25,us,"March 23, 1990",Butler University,4,Gordon,200,SF,Hayward,UTA,101.7,25.425
+456,23,us,"October 20, 1992",Duke University,R,Rodney,200,SG,Hood,UTA,92.7,23.175
+457,28,au,"October 2, 1987",,R,Joe,200,SF,Ingles,UTA,101.7,25.425
+458,22,us,"July 8, 1993",University of Arizona,R,Grant,205,PF,Jerrett,UTA,105.75,25.1635931
+459,22,us,"June 28, 1993",University of Florida,2,Bradley,192.5,SG,Beal,WAS,93.15,25.13745994
+460,26,us,"April 22, 1989",University of Pittsburgh,5,DeJuan,197.5,PF,Blair,WAS,121.5,31.14885435
+461,36,us,"May 23, 1979",La Salle University,11,Rasual,197.5,SF,Butler,WAS,96.75,24.80371735
+462,32,us,"January 4, 1983",Georgia Institute of Technology,7,Will,180,SG,Bynum,WAS,83.25,25.69444444
+463,34,us,"September 24, 1981",University of Kansas,12,Drew,205,PF,Gooden,WAS,112.5,26.76977989
+464,31,pl,"February 17, 1984",,7,Marcin,207.5,C,Gortat,WAS,108,25.0834664
+465,33,br,"September 13, 1982",,12,Nene,207.5,PF,Hilario,WAS,112.5,26.12861083
+466,30,us,"February 6, 1985",University of Minnesota,10,Kris,202.5,PF,Humphries,WAS,105.75,25.78875171
+467,39,us,"March 19, 1976",University of Utah,15,Andre,187.5,PG,Miller,WAS,90,25.6
+468,26,us,"November 8, 1989",Wichita State University,1,Toure',192.5,SG,Murry,WAS,87.75,23.68021589
+469,38,us,"October 13, 1977",University of Kansas,16,Paul,197.5,SF,Pierce,WAS,105.75,27.1110399
+470,22,us,"June 3, 1993",Georgetown University,1,Otto,200,SF,Porter,WAS,89.1,22.275
+471,24,us,"January 1, 1991",Georgia Institute of Technology,1,Glen,195,SG,Rice,WAS,92.7,24.37869822
+472,26,gf,"December 7, 1989",,4,Kevin,202.5,C,Seraphin,WAS,128.25,31.27572016
+473,29,us,"April 11, 1986","University of Nevada, Reno",7,Ramon,187.5,PG,Sessions,WAS,85.5,24.32
+474,29,us,"May 8, 1986",Louisiana State University,4,Garrett,195,SG,Temple,WAS,87.75,23.07692308
